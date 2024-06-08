@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @eyesofdaveed
 - 👀 My main work interest is in full scale web development and data analysis
 - 🌱 I’m currenly enthusiastic about MERN stack
-- 💞️ I’m looking to collaborate on web and cross-platform mobile applications
 - 📫 You can reach me by dropping an email at davdauit@gmail.com
 
 <!---
